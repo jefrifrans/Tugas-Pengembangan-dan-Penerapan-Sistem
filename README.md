@@ -1,3 +1,3 @@
 # Tugas-UAS-Pengembangan-dan-Penerapan-Sistem
-Web Management Sport cabang Badminto
+Web Management Sport cabang Badminton
 
